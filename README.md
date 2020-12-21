@@ -1,2 +1,2 @@
 # pydia
-Implementation of algorithms for cluster ananlisys and dimensionality reduction
+Implementation of algorithms for cluster analisys and dimensionality reduction
